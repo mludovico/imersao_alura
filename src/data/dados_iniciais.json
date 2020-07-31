@@ -102,6 +102,10 @@
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra": {
+        "text": "Filmes na NetFlix",
+        "url": "https://www.netflix.com"
+      },
       "videos": [
         {
           "titulo": "Interestellar",

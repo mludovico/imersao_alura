@@ -1,9 +1,10 @@
 import React from 'react';
+import PageDefault from '../../components/PageDefault';
 
 export default function Erro(){
     return(
-        <h1>
+        <PageDefault>
             Pagina de erro
-        </h1>
+        </PageDefault>
     );
 }
